@@ -4,3 +4,4 @@ tmp/*.txt
 *.jpg
 *.coco
 wesh
+*.xml
